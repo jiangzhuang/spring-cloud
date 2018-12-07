@@ -24,11 +24,5 @@
 hs_err_pid*
 
 /.idea/
-/spring-cloud.iml
-/provider/provider.iml
-/hystrix/hystrix.iml
-/feign/feign.iml
-/eureka/eureka.iml
-/bean/bean.iml
-/api/api.iml
+*.iml
 /.gitignore
